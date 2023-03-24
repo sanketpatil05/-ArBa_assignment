@@ -1,7 +1,7 @@
 import { Text } from '@chakra-ui/layout'
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+// creating routes for all the pages
 const Navbar = () => {
   return (
     <div>
